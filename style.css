@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: aquamarine;
+}
+
+.main{
+    width: 500px;
+    background-color: #ffff;
+    padding: 70px 40px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    top: 50%;
+    box-shadow: 0 20px 25px rgba(0, 0, 0, 0.25);
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.container{
+    width: 50%;
+    margin: 10px;
+}
+
+input{
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+    outline: none;
+    margin-top: 8px;
+    padding: 0 10px;
+}
+
+input:focus{
+    border-color: aquamarine;
+}
+
+.watermark {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: transparent;
+    font-size: 12px;
+    opacity: 0.8;
+    z-index: 1000;
+}
