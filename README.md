@@ -25,7 +25,7 @@ Enter a temperature value in the input field.
 
 ## Screenshots
 
-![User Interface](https://user-images.githubusercontent.com/88721218/230721280-09ba6f6c-92b6-4bc6-9b79-1422e6f3bac9.png)
+![UI](https://user-images.githubusercontent.com/88721218/230831386-c3c40929-a838-4696-9b81-d6887cfe111c.png)
 
 ## Live Preview
 
