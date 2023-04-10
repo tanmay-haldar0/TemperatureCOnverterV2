@@ -29,7 +29,7 @@ Enter a temperature value in the input field.
 
 ## Live Preview
 
-https://tempconverterv2.tanmay-haldar0.repl.co/
+https://replit.com/@tanmay-haldar0/tempconverter?v=1
 
 ## YouTube Channel
 
